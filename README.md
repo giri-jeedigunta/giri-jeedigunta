@@ -1,6 +1,6 @@
 # Hi 👋, I'm Giri !
 
-Full-stack architect | Crafting next-gen data-driven, interactive Web & Mobile apps for the e-Commerce. 👾 Tech wizardry in the code galaxy, **open-source advocate** 🌍, and an undying **Star Wars** fanatic 🌟. Let's push the limits and create the future. The Force is strong with us. 💥
+Full-stack architect | Crafting next-gen data-driven, interactive Web & Mobile apps for the e-Commerce. 👾 Tech wizardry in the code galaxy, **open-source advocate** 🌍, and an undying **Star Wars** fanatic 🌟. 
 
 ## 📚 Blog:
 [![WTFe.dev](https://img.shields.io/badge/WTFe.dev-%23131313.svg?style=for-the-badge&logo=gnubash&logoColor=%2300FF00&link=https://wtfe.dev)](https://wtfe.dev)
