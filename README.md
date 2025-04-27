@@ -15,5 +15,3 @@ Currently diving into the exploding world of **#AI** — learning, experimenting
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girijeedigunta)
-
-[![](https://visitcount.itsvg.in/api?id=giri-jeedigunta&icon=0&color=0)](https://visitcount.itsvg.in)
