@@ -1,7 +1,8 @@
-# Hi 👋, I'm Giri !
+# Hej 👋, I'm Giri !
 
 **Full-stack Architect** | Crafting next-gen, data-powered Web & Mobile experiences for e-Commerce. 👾  
 **Open-source advocate** 🌍, lifelong **Star Wars** fan 🌟, and a catalyst for building communities and engineering cultures that thrive.  
+
 I’m passionate about sparking ideas, running events, connecting people, and being an ally for innovation and growth.  
 Currently diving into the exploding world of **#AI** — learning, experimenting, and sharing the ride on [my blog](https://wtfe.dev/tags/ai/) 🚀
 
